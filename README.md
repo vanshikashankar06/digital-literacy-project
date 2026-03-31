@@ -11,4 +11,4 @@ This is where I’ve compiled all my tasks, exercises, and reports from my Digit
 [Task 5- the cybercrime] (#task-5)
 [The final report] (#report)
 
-This repository contains all the projects mentioned above.
+This repository contains all the projects mentioned above. So let's dive into the digital world and explore all the different elements of the digital literacy!!
